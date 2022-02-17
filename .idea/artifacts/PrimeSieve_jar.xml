@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrimeSieve:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrimeSieve_jar</output-path>
+    <root id="archive" name="PrimeSieve.jar">
+      <element id="module-output" name="PrimeSieve" />
+    </root>
+  </artifact>
+</component>
